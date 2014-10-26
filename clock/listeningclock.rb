@@ -1,6 +1,6 @@
 trap("SIGINT") { exit! }
 
-require './client'
+require 'comboclient'
 
 puts "This is The Clock"
 
