@@ -1,0 +1,15 @@
+GEM
+  specs:
+    comboclient (0.0.1)
+      httparty (~> 0.13, >= 0.13.1)
+    httparty (0.13.1)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.1)
+    multi_xml (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  comboclient
